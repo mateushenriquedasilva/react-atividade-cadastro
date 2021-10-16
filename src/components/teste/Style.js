@@ -1,5 +1,5 @@
 import styled from "styled-components";
 
-export const Texto = styled.h1`
+export const Container = styled.h1`
     color: red;
 `;
