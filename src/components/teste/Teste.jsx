@@ -1,13 +1,11 @@
 import React from 'react';
 
-import { Container } from './Teste';
+import { Container } from './Style';
 
-function Teste() {
+export default function Teste() {
   return(
       <Container>
           hello
       </Container>
   );
 }
-
-export default Teste;
