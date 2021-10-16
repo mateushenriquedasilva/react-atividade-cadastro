@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container } from './Teste';
 
-function teste() {
+function Teste() {
   return(
       <Container>
           hello
